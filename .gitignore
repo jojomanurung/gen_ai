@@ -1,0 +1,15 @@
+# Files
+.DS_Store
+result.txt
+acn_policy.csv
+global_policy-6_jun_2024.json
+
+# Folders
+/.venv
+/model
+/model/*
+/results
+/webdriver
+/webdriver/*
+/webdriver/chromedriver
+/webdriver/chromedriver.exe
