@@ -10,6 +10,7 @@
 ### Requirement
 1. Download [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/) sesuai OS kalian
 2. Buat folder baru `webdriver` pindahin file chromedriver.exe buat windows atau chromedriver buat mac/linux ke folder webdriver
+3. Untuk data_json di line 12 web_scraper.py bisa ambil directly dari https://policies.accenture.com/global-policies
 
 Run web scraper dengan `python web_scraper.py`
 
